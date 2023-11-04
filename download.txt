@@ -1,0 +1,4 @@
+Before running the program, download and place the Zip file of Malaria Infected Cell Image dataset in the root folder (near the Notebook file).
+
+
+Download cell_images.zip: https://drive.google.com/file/d/1VAFUkowxVg4D93CPAVwgm2-B44jXsM1_/view
